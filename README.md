@@ -52,5 +52,3 @@
 
 验收完成后，将上述清单分别上传到网络教学平台的PBL作业中，每组传一份。
 
-![image](https://github.com/three-jokers/wujindian/assets/144364845/cbe139c2-931d-4ad8-8823-00423b8706a0)
-
